@@ -1,1 +1,2 @@
-# SomeProjectsOn-Cplus
+# LastProjectOn-Cplus
+Полный отчет что/как/зачем делает программа -  в doc файле
