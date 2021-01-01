@@ -1,2 +1,2 @@
-# LastProjectOn-Cplus
-Полный отчет что/как/зачем делает программа -  в doc файле
+# LastProjectOn-Cplus1.1
+Полный отчет смотреть в doc файле
